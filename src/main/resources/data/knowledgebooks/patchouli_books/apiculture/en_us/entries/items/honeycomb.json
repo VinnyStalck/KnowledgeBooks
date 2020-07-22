@@ -1,0 +1,11 @@
+{
+	"name": "Honeycomb",
+	"icon": "minecraft:honeycomb",
+	"category": "knowledgebooks:items",
+	"pages": [{
+		"type": "spotlight",
+		"item": "minecraft:honeycomb",
+		"link_recipe": true,
+		"text": "Collected by shearing full $(l:blocks/bee_nest)bee nests$(/l) or $(l:blocks/beehive)beehives$(/l)."
+	}]
+}

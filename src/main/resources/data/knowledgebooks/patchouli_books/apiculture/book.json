@@ -1,0 +1,8 @@
+{
+	"name": "Buzzy Bees",
+	"subtitle": "Beekeeping, honey and more",
+	"landing_text": "Learn everything you need about bees in Minecraft's Buzzy Bees Update contents.",
+
+	"book_texture": "knowledgebooks:textures/gui/book_purple.png",
+	"model": "knowledgebooks:books/apiculture_book"
+}

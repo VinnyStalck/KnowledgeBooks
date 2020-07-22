@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "knowledgebooks",
+	"version": "${version}",
+	"name": "Knowledge Books",
+	"description": "Documentation books for Minecraft using Patchouli",
+	"authors": [
+		"StalckVinny"
+	],
+	"contributors": [],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/knowledgebooks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.stalckvinny.knowledgebooks.KnowledgeBooks"
+		],
+		"client": [],
+		"server": []
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.9.0",
+		"fabric": "*",
+		"patchouli": "*"
+	},
+	"suggests": {
+		"modmenu": "*",
+		"modsoftheworld": "*"
+	},
+	"custom": {
+		"modsoftheworld:splashes": "knowledgebooks:texts/splashes.txt"
+	}
+}

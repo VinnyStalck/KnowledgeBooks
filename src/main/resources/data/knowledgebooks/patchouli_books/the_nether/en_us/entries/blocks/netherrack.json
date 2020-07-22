@@ -1,0 +1,9 @@
+{
+	"name": "Netherrack",
+	"icon": "minecraft:netherrack",
+	"category": "knowledgebooks:blocks",
+	"pages": [{
+		"type": "text",
+		"text": "This is a test entry, but it should show up!"
+	}]
+}

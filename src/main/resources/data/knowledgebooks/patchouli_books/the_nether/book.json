@@ -1,0 +1,8 @@
+{
+	"name": "Nether Wastes",
+	"subtitle": "The Nether dimension",
+	"landing_text": "Learn everithing about the hell dimensions, how to get there and what to do next.",
+
+	"book_texture": "knowledgebooks:textures/gui/book_red.png",
+	"model": "knowledgebooks:books/the_nether_book"
+}
